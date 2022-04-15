@@ -17,7 +17,7 @@ crossing the image from top to bottom (vertical path) or from left to right (hor
 To complete seam carving of an image, the input must be read in the form of a PGM file. This form follows this trend:
 
 "P2
-# Comment
+Comment
 MaxGreyScaleNumber
 ColumnNumber RowNumber
 Values....."
